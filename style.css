@@ -1,0 +1,121 @@
+  
+    body {
+      background-color: #f8f9fa;
+    }
+    .hero {
+      background-image: url('./Images/BG1.jpeg');
+      background-size: cover;
+      background-position: center;
+      color: white ;
+      padding: 100px 0;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+    .card img {
+      height: 200px;
+      object-fit: cover;
+    }
+	
+   .img {
+    position: fixed;
+	bottom: 0;
+	right: 0;
+	width:100px;
+	height:100px;
+	border: 3px solid #73AD21;
+}
+	 nav {
+            background: #123;
+            display:flex;
+            justify-content:center;
+			 position:sticky; 
+		     top:5px;
+			 
+        }
+        nav a {
+            color: white;
+            padding: 14px 15px;
+            text-decoration: none;
+            display: block;
+        }
+        nav a:hover {
+            background: #7caaa1;
+			}
+			
+			.sticky{
+			position: sticky;
+           top: 0;
+ 
+}
+		.img {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+}	
+			.img1 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+			}
+			.img2{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+}
+.img3 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+}
+.img4 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+}
+
+
+ .card img {
+      height: 400px;
+
+}
+.img5 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+}
+.img6 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:100px;
+  height:100px;
+  border: 3px solid #73AD21;
+}
+
+    footer {
+      background-color: #343a40;
+      color: white;
+      padding: 20px 0;
+    }
+  
