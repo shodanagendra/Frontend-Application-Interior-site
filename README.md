@@ -1,4 +1,4 @@
-*Frontend Web Application on Interior Designing Site (HTML, CSS, Bootstrap) *
+**Frontend Web Application on Interior Designing Site (HTML, CSS, Bootstrap) **
 
 • This is responsive web app showcase modern UI components. 
 
